@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-[![Email](https://img.shields.io/badge/-email-gray?style=for-the-badge&logo=gmail&labelColor=white)](mailto:pedrorfpacheco.dev@gmail.com)
+[![Email](https://img.shields.io/badge/-email-gray?style=for-the-badge&logo=gmail&labelColor=white)](mailto:matmar215@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateusz-m-53a753301/)
 [![GitHub](https://img.shields.io/badge/-github-purple?style=for-the-badge&logo=github&labelColor=purple)](https://github.com/MenLine1)
 <a href="" target="_blank">
