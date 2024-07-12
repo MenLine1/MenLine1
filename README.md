@@ -5,7 +5,7 @@
 <br/>
 
 - 👋 Hi, I’m **@MenLine1**
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me **matmar215@gmail.com**
   
 <br/>
