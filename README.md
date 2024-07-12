@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,cpp,php" />
   
   <h2>Frameworks</h2>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,spring,laravel,express" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,spring,laravel,express,nextjs" />
   
   <h2>Tools</h2>
   <img src="https://skillicons.dev/icons?i=docker,postman,mongodb,mysql,github,npm,idea,webstorm,phpstorm,visualstudio,nodejs" />
