@@ -14,9 +14,7 @@
 [![Email](https://img.shields.io/badge/-email-gray?style=for-the-badge&logo=gmail&labelColor=white)](mailto:matmar215@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateusz-m-53a753301/)
 [![GitHub](https://img.shields.io/badge/-github-purple?style=for-the-badge&logo=github&labelColor=purple)](https://github.com/MenLine1)
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-glp5ap645-menlines-projects.vercel.app/)
 
 <div align="center">
   <h2>Languages</h2>
